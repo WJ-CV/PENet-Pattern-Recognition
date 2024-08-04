@@ -55,7 +55,7 @@ python test.py
 ```
 3. Evalutation
 ```
-We use the widely adopted Matlab-based saliency evaluation toolbox to generate metrics. Here is the link to the toolbox: https://github.com/jiwei0921/Saliency-Evaluation-Toolbox
+We use the widely adopted Matlab-based saliency evaluation toolbox to generate metrics. [Evalutation toolbox](https://github.com/jiwei0921/Saliency-Evaluation-Toolbox)
 ```
 
 Citation
