@@ -36,9 +36,16 @@ Usage
 ---
 1. Environment
 ```
-Python==3.8.5
-opencv-python==4.5.3.56
-torch==1.9.0
+Linux with Python ≥ 3.8
+conda create -n PENet python=3.11.5
+conda activate PENet
+torch==1.11.0
+cuda==11.3
+opencv-python==4.9.0.80
+```
+2. Test: Download our pre-trained models and prepare the test datasets.
+```
+python test.py
 ```
 
 
