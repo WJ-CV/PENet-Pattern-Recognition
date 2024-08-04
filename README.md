@@ -1,6 +1,4 @@
 # PENet：Progressive Expansion for Semi-supervised Bi-modal Salient Object Detection
-===
-
 The paper has been accepted for publication in the journal Pattern Recognition.
 
 Comparison of architectures and qualitative and quantitative analyses of existing fully supervised, weakly supervised, and proposed semi-supervised SOD models.
