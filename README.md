@@ -10,8 +10,6 @@ Comparison of architectures and quantitative analysis of existing fully supervis
   <img src="https://github.com/user-attachments/assets/32b25700-02a7-46d5-a352-ad2a81c53ee8" width="45%" style="display:inline;" />
   <img src="https://github.com/user-attachments/assets/25ad0515-5f54-42fa-8220-0f18e7637c99" width="45%" style="display:inline;" />
 </p>
-![fig1](https://github.com/user-attachments/assets/32b25700-02a7-46d5-a352-ad2a81c53ee8) ![fig2](https://github.com/user-attachments/assets/25ad0515-5f54-42fa-8220-0f18e7637c99)
-
 
 Network Architecture
 ====
