@@ -26,5 +26,5 @@ RGB-D SOD:
 ![RGBD](https://github.com/user-attachments/assets/7bfb9374-4a78-4cc6-98c3-1a310e2e729c)
 ![visual](https://github.com/user-attachments/assets/ee829030-2b8c-4767-a2fc-6a3b48f940a2)
 
-We provide saliency prediction results on both RGB-T and RGB-D tasks. [Baidu Pan link:](https://pan.baidu.com/s/1_T8b9eCjVE0oaCvD_jRhJw)    code: 0825
+We provide saliency prediction results and the saved models on both RGB-T and RGB-D tasks. [Baidu Pan link:](https://pan.baidu.com/s/1_T8b9eCjVE0oaCvD_jRhJw)    code: 0825
 
