@@ -1,7 +1,7 @@
 # PENet
 Progressive Expansion for Semi-supervised Bi-modal Salient Object Detection
 ---
-The paper has been accepted by Pattern Recognition.
+The paper has been accepted for publication in the journal Pattern Recognition.
 
 Network Architecture
 ====
