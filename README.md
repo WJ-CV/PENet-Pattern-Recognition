@@ -54,9 +54,9 @@ Download the ckeckpoints of our model from [BaiduYun](https://pan.baidu.com/s/1_
 python test.py
 ```
 3. Evalutation
-```
+
 We use the widely adopted Matlab-based saliency evaluation toolbox to generate metrics. [Evalutation toolbox](https://github.com/jiwei0921/Saliency-Evaluation-Toolbox)
-```
+
 
 Citation
 ===
