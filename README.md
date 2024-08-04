@@ -1,6 +1,12 @@
 # PENet：Progressive Expansion for Semi-supervised Bi-modal Salient Object Detection
 The paper has been accepted for publication in the journal Pattern Recognition.
 
+Abstract
+---
+```
+Existing bi-modal salient object detection (SOD) methods primarily rely on fully supervised training strategies that require extensive manual annotation. Undoubtedly, extensive manual annotation is time-consuming and laborious, and the fully supervised strategy is also prone to overfitting on the training set. Therefore, we introduce a semi-supervised learning architecture (SSLA) to alleviate these problems while ensuring detection performance. Considering that the inherent training mode and concise architecture of basic SSLA will limit its ability to effectively explore the learning potential of the model, we further propose two optimization strategies, dynamic adjustment and active expansion. Specifically, we dynamically adjust the supervision scheme for unlabeled samples during training so that the model can continuously utilize the model's gains (pseudo labels) to supervise and guide the model to further explore the unlabeled samples. Furthermore, the active expansion strategy enables the model to acquire more beneficial supervised information and focuses its attention on difficult-to-segment samples. In summary, an effective progressive expansion network (PENet) architecture for semi-supervised bi-modal SOD is proposed. Extensive experiments indicate that our PENet architecture, while effectively alleviating 90% of annotation burdens, has achieved highly competitive results in RGB-T and RGB-D tasks compared to fully supervised methods. The performance is even more pronounced during cross-dataset testing.
+```
+
 Comparison of architectures and qualitative and quantitative analyses of existing fully supervised, weakly supervised, and proposed semi-supervised SOD models.
 ---
 <p align="center">
