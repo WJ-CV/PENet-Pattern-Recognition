@@ -43,9 +43,9 @@ torch==1.11.0
 cuda==11.3
 opencv-python==4.9.0.80
 ```
-2. Test
+2. Test and evalutation
 
-Download our pre-trained models and prepare the test datasets. [Baidu Pan link:](https://pan.baidu.com/s/1_T8b9eCjVE0oaCvD_jRhJw)    code: 0825
+Download the ckeckpoints of our model from [BaiduYun](https://pan.baidu.com/s/1_T8b9eCjVE0oaCvD_jRhJw) (fetch code: 0825) and prepare the test datasets. [Baidu Pan link:]
 ```
 python test.py
 ```
