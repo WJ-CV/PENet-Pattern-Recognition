@@ -23,7 +23,11 @@ Quantitative comparison with SOTA methods
 RGB-T SOD
 ---
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/e38e1602-24f4-41a2-b05a-084538363e68" width="45%" style="display:inline; margin-right:10px;" />
+  <img src="https://github.com/user-attachments/assets/6a3f5ac7-3dd4-42b2-804b-49cc45ea207c" width="45%" style="display:inline; margin-right:10px;" />
   <img src="https://github.com/user-attachments/assets/29a9c096-91de-4a0b-a8d3-c5f775fbda6a" width="45%" style="display:inline;" />
 </p>
+RGB-D SOD
+---
+![RGBD](https://github.com/user-attachments/assets/7bfb9374-4a78-4cc6-98c3-1a310e2e729c)
+
 
