@@ -5,11 +5,9 @@ The paper has been accepted for publication in the journal Pattern Recognition.
 
 ---
 Comparison of architectures and quantitative analysis of existing fully supervised, weakly supervised, and the proposed semi-supervised methods.
-
-
 <p align="center">
-  <img src="![fig1](https://github.com/user-attachments/assets/32b25700-02a7-46d5-a352-ad2a81c53ee8)" width="45%" />
-  <img src="![fig2](https://github.com/user-attachments/assets/25ad0515-5f54-42fa-8220-0f18e7637c99)" width="45%" />
+  <img src="![fig1](https://github.com/user-attachments/assets/32b25700-02a7-46d5-a352-ad2a81c53ee8)" width="45%" style="display:inline;"/>
+  <img src="![fig2](https://github.com/user-attachments/assets/25ad0515-5f54-42fa-8220-0f18e7637c99)" width="45%" style="display:inline;"/>
 </p>
 
 
