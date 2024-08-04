@@ -45,10 +45,11 @@ opencv-python==4.9.0.80
 ```
 2. Test and evalutation
 
-Download the ckeckpoints of our model from [BaiduYun](https://pan.baidu.com/s/1_T8b9eCjVE0oaCvD_jRhJw) (fetch code: 0825) and prepare the test datasets. [Baidu Pan link:]
+Download the ckeckpoints of our model from [BaiduYun](https://pan.baidu.com/s/1_T8b9eCjVE0oaCvD_jRhJw) (fetch code: 0825) and prepare the test datasets.
 ```
 python test.py
 ```
+We use the widely adopted Matlab-based saliency evaluation toolbox to generate metrics. Here is the link to the toolbox: https://github.com/jiwei0921/Saliency-Evaluation-Toolbox
 
 Citation
 ===
