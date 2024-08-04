@@ -5,4 +5,4 @@ The paper has been accepted by Pattern Recognition.
 
 Network Architecture
 ====
-[fig.3.pdf](https://github.com/user-attachments/files/16484570/fig.3.pdf)
+![fig 3](https://github.com/user-attachments/assets/ebebaabe-e236-41d7-b56a-8a8293dea5ae)
