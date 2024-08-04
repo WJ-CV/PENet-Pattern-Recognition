@@ -32,5 +32,14 @@ Showcase of high-quality samples selected by the active expansion strategy.
 ---
 ![sample](https://github.com/user-attachments/assets/eeb0b5a2-5ddc-44a5-a18d-66b779ccf739)
 
+Usage
+---
+1. Environment
+```
+Python==3.8.5
+opencv-python==4.5.3.56
+torch==1.9.0
+```
+
 
 
