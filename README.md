@@ -28,4 +28,9 @@ RGB-D SOD:
 ![RGBD](https://github.com/user-attachments/assets/7bfb9374-4a78-4cc6-98c3-1a310e2e729c)
 ![visual](https://github.com/user-attachments/assets/ee829030-2b8c-4767-a2fc-6a3b48f940a2)
 
+Showcase of high-quality samples selected by the active expansion strategy.
+---
+![sample](https://github.com/user-attachments/assets/eeb0b5a2-5ddc-44a5-a18d-66b779ccf739)
+
+
 
