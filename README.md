@@ -11,10 +11,10 @@ Comparison of architectures and qualitative and quantitative analyses of existin
 </p>
 
 Network Architecture
-====
+---
 ![fig 3](https://github.com/user-attachments/assets/ebebaabe-e236-41d7-b56a-8a8293dea5ae)
 
 We provide saliency prediction results on both RGB-T and RGB-D tasks.
-====
+---
 [Baidu Pan link:](https://pan.baidu.com/s/1_T8b9eCjVE0oaCvD_jRhJw)    code: 0825
 
