@@ -43,10 +43,22 @@ torch==1.11.0
 cuda==11.3
 opencv-python==4.9.0.80
 ```
-2. Test: Download our pre-trained models and prepare the test datasets.
+2. Test
+
+Download our pre-trained models and prepare the test datasets. [Baidu Pan link:](https://pan.baidu.com/s/1_T8b9eCjVE0oaCvD_jRhJw)    code: 0825
 ```
 python test.py
 ```
 
-
+Citation
+===
+```
+@article{wang2024progressive,
+  title={Progressive Expansion for Semi-supervised Bi-modal Salient Object Detection},
+  author={Wang, Jie and Zhang, Zihao and Yu, Nana and Han, Yahong},
+  journal={Pattern Recognition},
+  year={2024},
+  publisher={Elsevier}
+}
+```
 
