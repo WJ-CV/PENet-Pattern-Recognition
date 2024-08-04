@@ -14,6 +14,7 @@ Network Architecture
 
 Quantitative and qualitative comparison with SOTA methods
 ---
+We provide saliency prediction results and the saved models on both RGB-T and RGB-D tasks. [Baidu Pan link:](https://pan.baidu.com/s/1_T8b9eCjVE0oaCvD_jRhJw)    code: 0825
 RGB-T SOD:
 <p align="center">
   <img src="https://github.com/user-attachments/assets/6a3f5ac7-3dd4-42b2-804b-49cc45ea207c" width="45%" style="display:inline; margin-right:10px;" />
@@ -26,5 +27,4 @@ RGB-D SOD:
 ![RGBD](https://github.com/user-attachments/assets/7bfb9374-4a78-4cc6-98c3-1a310e2e729c)
 ![visual](https://github.com/user-attachments/assets/ee829030-2b8c-4767-a2fc-6a3b48f940a2)
 
-We provide saliency prediction results and the saved models on both RGB-T and RGB-D tasks. [Baidu Pan link:](https://pan.baidu.com/s/1_T8b9eCjVE0oaCvD_jRhJw)    code: 0825
 
