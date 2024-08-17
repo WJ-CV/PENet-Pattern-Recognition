@@ -62,9 +62,10 @@ Citation
 ===
 ```
 @article{wang2024progressive,
-  title={Progressive Expansion for Semi-supervised Bi-modal Salient Object Detection},
+  title={Progressive expansion for semi-supervised Bi-modal salient object detection},
   author={Wang, Jie and Zhang, Zihao and Yu, Nana and Han, Yahong},
   journal={Pattern Recognition},
+  pages={110868},
   year={2024},
   publisher={Elsevier}
 }
